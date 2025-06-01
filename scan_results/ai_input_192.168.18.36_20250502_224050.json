@@ -1,0 +1,50 @@
+[
+  {
+    "host": "192.168.18.36",
+    "port": "135",
+    "service": "msrpc           Microsoft Windows RPC",
+    "vulnerability_id": "PORT-135",
+    "description": "Open msrpc           Microsoft Windows RPC port detected.",
+    "cvss": "N/A"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "137",
+    "service": "netbios-ns",
+    "vulnerability_id": "PORT-137",
+    "description": "Open netbios-ns port detected.",
+    "cvss": "N/A"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "139",
+    "service": "netbios-ssn     Microsoft Windows netbios-ssn",
+    "vulnerability_id": "PORT-139",
+    "description": "Open netbios-ssn     Microsoft Windows netbios-ssn port detected.",
+    "cvss": "N/A"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "445",
+    "service": "microsoft-ds?",
+    "vulnerability_id": "PORT-445",
+    "description": "Open microsoft-ds? port detected.",
+    "cvss": "N/A"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "903",
+    "service": "ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)",
+    "vulnerability_id": "PORT-903",
+    "description": "Open ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP) port detected.",
+    "cvss": "N/A"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "913",
+    "service": "vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)",
+    "vulnerability_id": "PORT-913",
+    "description": "Open vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP) port detected.",
+    "cvss": "N/A"
+  }
+]

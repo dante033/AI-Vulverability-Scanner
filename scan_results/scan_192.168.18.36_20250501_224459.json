@@ -1,0 +1,44 @@
+[
+  {
+    "host": "192.168.18.36",
+    "status": "up",
+    "ports": [
+      {
+        "port": "135",
+        "state": "open",
+        "service": "msrpc           Microsoft Windows RPC",
+        "vulnerabilities": []
+      },
+      {
+        "port": "137",
+        "state": "filtered",
+        "service": "netbios-ns",
+        "vulnerabilities": []
+      },
+      {
+        "port": "139",
+        "state": "open",
+        "service": "netbios-ssn     Microsoft Windows netbios-ssn",
+        "vulnerabilities": []
+      },
+      {
+        "port": "445",
+        "state": "open",
+        "service": "microsoft-ds?",
+        "vulnerabilities": []
+      },
+      {
+        "port": "903",
+        "state": "open",
+        "service": "ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)",
+        "vulnerabilities": []
+      },
+      {
+        "port": "913",
+        "state": "open",
+        "service": "vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)",
+        "vulnerabilities": []
+      }
+    ]
+  }
+]

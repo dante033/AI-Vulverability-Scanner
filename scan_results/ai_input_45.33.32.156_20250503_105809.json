@@ -1,0 +1,42 @@
+[
+  {
+    "host": "45.33.32.156",
+    "port": "22",
+    "service": "ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)",
+    "vulnerability_id": "PORT-22",
+    "description": "Open ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0) port detected.",
+    "cvss": "8.0",
+    "severity": "high",
+    "cves": [
+      "CVE-2018-15473",
+      "CVE-2016-0777"
+    ]
+  },
+  {
+    "host": "45.33.32.156",
+    "port": "25",
+    "service": "smtp",
+    "vulnerability_id": "CVE-2023-3087",
+    "description": "The FluentSMTP plugin for WordPress is vulnerable to Stored Cross-Site Scripting via an email subject in versions up to, and including, 2.2.4 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
+    "cvss": "6.1",
+    "severity": "medium",
+    "cves": [
+      "CVE-2023-3087",
+      "CVE-2024-9065"
+    ],
+    "remediation": "Disable vulnerable component"
+  },
+  {
+    "host": "45.33.32.156",
+    "port": "80",
+    "service": "http    Apache httpd 2.4.7 ((Ubuntu))",
+    "vulnerability_id": "PORT-80",
+    "description": "Open http    Apache httpd 2.4.7 ((Ubuntu)) port detected.",
+    "cvss": "9.5",
+    "severity": "critical",
+    "cves": [
+      "CVE-2021-44228",
+      "CVE-2022-22965"
+    ]
+  }
+]

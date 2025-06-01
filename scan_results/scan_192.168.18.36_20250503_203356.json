@@ -1,0 +1,98 @@
+[
+  {
+    "host": "192.168.18.36",
+    "port": "135",
+    "state": "open",
+    "service": "msrpc           Microsoft Windows RPC"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "137",
+    "state": "filtered",
+    "service": "netbios-ns"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "139",
+    "state": "open",
+    "service": "netbios-ssn     Microsoft Windows netbios-ssn"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "445",
+    "state": "open",
+    "service": "microsoft-ds?"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "903",
+    "state": "open",
+    "service": "ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "913",
+    "state": "open",
+    "service": "vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "5040",
+    "state": "open",
+    "service": "unknown"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "7680",
+    "state": "open",
+    "service": "pando-pub?"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "27036",
+    "state": "open",
+    "service": "ssl/steam       Valve Steam In-Home Streaming service (TLSv1.2 PSK)"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "49664",
+    "state": "open",
+    "service": "msrpc           Microsoft Windows RPC"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "49665",
+    "state": "open",
+    "service": "msrpc           Microsoft Windows RPC"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "49666",
+    "state": "open",
+    "service": "msrpc           Microsoft Windows RPC"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "49667",
+    "state": "open",
+    "service": "msrpc           Microsoft Windows RPC"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "49668",
+    "state": "open",
+    "service": "msrpc           Microsoft Windows RPC"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "49670",
+    "state": "open",
+    "service": "msrpc           Microsoft Windows RPC"
+  },
+  {
+    "host": "192.168.18.36",
+    "port": "49753",
+    "state": "open",
+    "service": "unknown"
+  }
+]

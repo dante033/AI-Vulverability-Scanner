@@ -1,0 +1,15 @@
+CVE-ID,Description,Severity,Remediation
+CVE-2021-44228,Log4j Remote Code Execution,Critical,Update Log4j to version 2.15.0 or later
+CVE-2022-22965,Spring4Shell RCE,Critical,Update Spring Framework to latest version
+CVE-2021-40539,Zoho ManageEngine ADSelfService RCE,Critical,Apply vendor patches immediately
+CVE-2020-0601,Windows CryptoAPI Spoofing,High,Apply Microsoft security patches
+CVE-2018-15473,OpenSSH Username Enumeration,Medium,Update OpenSSH to version 7.9 or later
+CVE-2016-0777,OpenSSH Client Information Leak,Medium,Disable roaming in SSH client configs
+CVE-2019-5418,Rails File Content Disclosure,High,Update Rails to patched version
+CVE-2020-9484,Apache Tomcat Session Deserialization,High,"Update Tomcat, validate session IDs"
+CVE-2019-0708,BlueKeep RDP RCE,Critical,"Apply Microsoft patches, disable RDP if not needed"
+CVE-2020-0609,Windows RD Gateway RCE,Critical,Apply Microsoft January 2020 security updates
+CVE-2017-0144,EternalBlue SMB RCE,Critical,Apply MS17-010 security update
+CVE-2020-0796,SMBGhost RCE,Critical,"Apply Microsoft security updates, disable SMBv3 compression"
+CVE-2016-6662,MySQL Remote Code Execution,High,Update MySQL to latest version
+CVE-2018-2628,WebLogic Server RCE,Critical,Apply Oracle Critical Patch Update

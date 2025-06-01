@@ -1,0 +1,15 @@
+[
+  {
+    "host": "44.228.249.3",
+    "port": "80",
+    "service": "http    nginx 1.19.0",
+    "vulnerability_id": "CVE-2021-44228",
+    "description": "Log4j Remote Code Execution",
+    "cvss": "8.0",
+    "severity": "high",
+    "cves": [
+      "CVE-2021-44228",
+      "CVE-2022-22965"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Environment folders
+venv/
+.env
+
+# Hugging Face caches (optional if large)
+~/.cache/huggingface/
+
+# PyTorch model checkpoints / safetensors
+models/*.safetensors
+models/checkpoint-*/
+
+# Geo‐specific logs / runtime files
+*.log
+
+# OS‐specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode / IDE settings
+.vscode/
+.idea/

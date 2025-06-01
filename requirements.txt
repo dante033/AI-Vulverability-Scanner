@@ -1,0 +1,28 @@
+# Data & ML
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.2.2
+
+# NLP & Transformers
+nltk==3.8.1
+spacy==3.6.1
+sentence-transformers==2.2.2  # requires huggingface-hub>=0.4.0
+transformers==4.30.2           # requires huggingface-hub>=0.14.1,<1.0
+safetensors==0.4.0
+
+# Deep Learning (GPU)
+torch>=2.0.1,<2.1             # install via official PyTorch homepage for your CUDA version
+
+# Scanning & API
+python-nmap==0.7.1
+flask==2.2.5
+
+# Web Scraping
+beautifulsoup4==4.12.2
+
+# HuggingFace Hub (aligned with transformers dependency)
+huggingface-hub==0.25.2  # version compatible with sentence-transformers' cached_download usage
+
+# Extras
+python-dotenv==0.21.1
+accelerate>=0.20.1

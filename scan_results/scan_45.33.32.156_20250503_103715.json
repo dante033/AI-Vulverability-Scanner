@@ -1,0 +1,14 @@
+[
+  {
+    "host": "45.33.32.156",
+    "port": "22",
+    "state": "open",
+    "service": "ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)"
+  },
+  {
+    "host": "45.33.32.156",
+    "port": "80",
+    "state": "open",
+    "service": "http    Apache httpd 2.4.7 ((Ubuntu))"
+  }
+]

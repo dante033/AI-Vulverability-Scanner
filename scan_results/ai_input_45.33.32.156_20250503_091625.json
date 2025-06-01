@@ -1,0 +1,22 @@
+[
+  {
+    "host": "45.33.32.156",
+    "port": "22",
+    "service": "ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)",
+    "vulnerability_id": "PORT-22",
+    "description": "Open ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0) port detected.",
+    "cvss": "5.0",
+    "severity": "medium",
+    "cves": []
+  },
+  {
+    "host": "45.33.32.156",
+    "port": "80",
+    "service": "http    Apache httpd 2.4.7 ((Ubuntu))",
+    "vulnerability_id": "PORT-80",
+    "description": "Open http    Apache httpd 2.4.7 ((Ubuntu)) port detected.",
+    "cvss": "5.0",
+    "severity": "medium",
+    "cves": []
+  }
+]

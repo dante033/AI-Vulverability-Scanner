@@ -1,0 +1,8 @@
+[
+  {
+    "host": "testphp.vulnweb.com",
+    "port": "80",
+    "state": "open",
+    "service": "http    nginx 1.19.0"
+  }
+]
